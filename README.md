@@ -8,11 +8,13 @@ Utilizamos o Mysql Workbranch para a criação e gerenciamento de dados relacion
 <hr>
 
 # API 
-Para a criação de nossa Api utilizamos a linguagem java como visto aqui:
+Para a criação de nossa API utilizamos a linguagem Java aonde com ela conectamos o banco de dados relacional ao nosso sistema em localhost
 
 ![image](https://github.com/user-attachments/assets/48bc87e3-29ba-4f3e-8472-3566a903eb90)
 
 
-Utilizamos o Spring como framework para conectar com  o banco de dados de nossa plataforma:
+# Framework
+Para a melhor recepção dos códigos Java utilizamos o Spring Framework aonde criamos as dependecias e realizamos todo o processo desde a criação das 3 pastas a controller, models e a repository até a efetiva conexão com o banco de dados e front end.
+
 ![image](https://github.com/user-attachments/assets/101503c7-e0eb-43be-ba27-b698958dc8f6)
  
